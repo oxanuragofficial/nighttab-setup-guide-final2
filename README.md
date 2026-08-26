@@ -16,9 +16,8 @@
 ## ⚡ Quick Setup
 
 ### 1. Download the backup
-
 <p align="center">
-  <a href="https://github.com/oxanuragofficial/nighttab-setup-guide2/releases/latest/download/nighttab-backup.json">
+  <a href="https://github.com/oxanuragofficial/nighttab-setup-guide-final2/releases/latest/download/nighttab-backup.json">
     <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20DOWNLOAD%20BACKUP-nighttab--backup.json-2563eb?style=for-the-badge" alt="Download nightTab backup">
   </a>
 </p>
