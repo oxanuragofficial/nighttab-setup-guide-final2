@@ -34,7 +34,6 @@
 <img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome">
 </a>
 <br>
-<sub>Chrome</sub>
 </td>
 
 <td align="center" width="180">
@@ -42,7 +41,7 @@
 <img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white" alt="Microsoft Edge">
 </a>
 <br>
-<sub>Edge</sub>
+
 </td>
 
 <td align="center" width="180">
@@ -50,7 +49,6 @@
 <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white" alt="Brave">
 </a>
 <br>
-<sub>Brave</sub>
 </td>
 
 <td align="center" width="180">
@@ -58,7 +56,7 @@
 <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Firefox">
 </a>
 <br>
-<sub>Firefox</sub>
+
 </td>
 
 </tr>
