@@ -1,31 +1,44 @@
 # 🧩 Browser Customizer
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Browser-Customizer-0f172a?style=for-the-badge" alt="Browser Customizer">
-</p>
-
-<p align="center">
-  <strong>A ready-made browser new-tab setup with bookmarks, theme and layout.</strong>
+  <strong>A ready-made browser new-tab setup.</strong>
   <br>
-  Install the extension → download the setup → import → done.
+  Install → Download → Import → Done
 </p>
-
-<br>
 
 <p align="center">
   <a href="https://github.com/zombieFox/nightTab">
-    <img src="https://img.shields.io/badge/🌐%20Official%20Project-111827?style=for-the-badge" alt="Official Project">
+    <img src="https://img.shields.io/badge/Official%20Project-111827?style=for-the-badge&logo=github&logoColor=white" alt="Official Project">
   </a>
 </p>
 
----
-
-# 🚀 Install the Extension
+<br>
 
 <p align="center">
-  <strong>Choose your browser</strong>
+  <img src="https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome">
+  <img src="https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=microsoftedge&logoColor=white" alt="Edge">
+  <img src="https://img.shields.io/badge/Brave-FB542B?style=flat-square&logo=brave&logoColor=white" alt="Brave">
+  <img src="https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=firefoxbrowser&logoColor=white" alt="Firefox">
+</p>
+
+<br>
+
+---
+
+## 🚀 Get Started
+
+<p align="center">
+  <strong>Follow these 4 steps.</strong>
   <br>
-  Install the extension first.
+  <sub>No manual bookmark setup required.</sub>
+</p>
+
+<br>
+
+## 1️⃣ Install for Your Browser
+
+<p align="center">
+  <strong>Choose your browser and install the extension.</strong>
 </p>
 
 <br>
@@ -33,87 +46,61 @@
 <p align="center">
 
 <a href="https://chromewebstore.google.com/detail/nighttab/hdpcadigjkbcpnlcpbcohpafiaefanki">
-<img src="https://img.shields.io/badge/🌐%20Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Install for Chrome">
+  <img src="https://img.shields.io/badge/🌐%20CHROME-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Install for Chrome">
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://chromewebstore.google.com/detail/nighttab/hdpcadigjkbcpnlcpbcohpafiaefanki">
-<img src="https://img.shields.io/badge/🔷%20Edge-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white" alt="Install for Edge">
+  <img src="https://img.shields.io/badge/🔷%20EDGE-0078D7?style=for-the-badge&logo=microsoftedge&logoColor=white" alt="Install for Edge">
 </a>
 
-&nbsp;&nbsp;
+</p>
+
+<p align="center">
 
 <a href="https://chromewebstore.google.com/detail/nighttab/hdpcadigjkbcpnlcpbcohpafiaefanki">
-<img src="https://img.shields.io/badge/🦁%20Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white" alt="Install for Brave">
+  <img src="https://img.shields.io/badge/🦁%20BRAVE-FB542B?style=for-the-badge&logo=brave&logoColor=white" alt="Install for Brave">
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://addons.mozilla.org/en-US/firefox/addon/nighttab/">
-<img src="https://img.shields.io/badge/🦊%20Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Install for Firefox">
+  <img src="https://img.shields.io/badge/🦊%20FIREFOX-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Install for Firefox">
 </a>
 
 </p>
 
 <p align="center">
   <sub>
-    Chrome, Edge and Brave use the Chromium extension listing.
-    Firefox uses the official Mozilla Add-ons listing.
+    Chrome, Edge and Brave use the Chromium listing.
+    Firefox uses the Mozilla Add-ons listing.
   </sub>
 </p>
 
+<br>
+
 ---
 
-# 📥 Download Your Setup
+## 2️⃣ Download the Setup
 
 <p align="center">
   <strong>Download the ready-made configuration.</strong>
   <br>
-  This is the file you will import later.
+  <sub>You will import this file in Step 4.</sub>
 </p>
 
 <br>
 
 <p align="center">
   <a href="https://github.com/oxanuragofficial/nighttab-setup-guide-final2/releases/latest/download/nighttab-backup.json">
-    <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20SETUP-nighttab--backup.json-2563eb?style=for-the-badge" alt="Download Setup">
+    <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20SETUP-nighttab--backup.json-2563eb?style=for-the-badge" alt="Download Browser Setup">
   </a>
 </p>
 
-<p align="center">
-  <sub>
-    Download → keep the file → use it in Step 3.
-  </sub>
-</p>
-
----
-
-# ⚡ Setup
-
-Follow these **4 simple steps**.
-
----
-
-## 1️⃣ Install the Extension
-
-Choose your browser above and install the extension.
-
-After installation, open a **new browser tab**.
-
----
-
-## 2️⃣ Download the Setup
-
-Click:
+<br>
 
 <p align="center">
-  <a href="https://github.com/oxanuragofficial/nighttab-setup-guide-final2/releases/latest/download/nighttab-backup.json">
-    <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20SETUP-2563eb?style=for-the-badge" alt="Download Setup">
-  </a>
-</p>
-
-You should have:
 
 ```text
 nighttab-backup.json
