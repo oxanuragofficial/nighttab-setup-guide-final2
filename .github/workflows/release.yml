@@ -1,0 +1,25 @@
+name: Release backup
+
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Create GitHub release and upload backup
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release create "${GITHUB_REF_NAME}" \
+            "backup/nighttab-backup.json" \
+            --title "nightTab Setup ${GITHUB_REF_NAME}" \
+            --generate-notes
